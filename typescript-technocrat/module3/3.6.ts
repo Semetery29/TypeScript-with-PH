@@ -34,7 +34,7 @@
 
   // goribManusherAccount.deposit = 0;
   // goribManusherAccount.addDeposit(20); // need to call function
-
+  goribManusherAccount.deposit = 50;
   // const myBalance = goribManusherAccount.getBalance(); // need to call function
 
   const myBalance = goribManusherAccount.balance; // using function like a property
